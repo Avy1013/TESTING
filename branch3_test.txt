@@ -1,0 +1,1 @@
+used git checkout -b command creates and also switchs the branch
