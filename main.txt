@@ -1,2 +1,5 @@
 created a new file in main branch after creating a new file
 modifying this file to create a clear graph on gitlens
+
+
+adding this line to cause conflict when merging gonna do this same in other branch
