@@ -3,3 +3,7 @@ modifying this file to create a clear graph on gitlens
 
 
 adding this line to cause conflict when merging gonna do this same in other branch
+
+
+
+this new line will conflict with the main branch
