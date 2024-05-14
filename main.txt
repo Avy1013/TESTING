@@ -7,3 +7,5 @@ adding this line to cause conflict when merging gonna do this same in other bran
 
 
 this new line will conflict with the main branch
+
+for rebase adding this line

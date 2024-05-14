@@ -1,9 +1,24 @@
 created a new file in new branch jkl
 modified it for branch and checking the graph
 
+<<<<<<< HEAD
+=======
+i am gonna learn rebace with this
+<<<<<<< HEAD
+>>>>>>> bugfix
 
 for learning rebase command editing this file also extra info
      when using command git reset --hard <hash>
      make sure u are absolutely sure as it will be permanent
 
 i have doubts why i repeated a line for learning rebase but ig practice
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+i am gonna learn rebace with this
+=======
+>>>>>>> b53c438 (added for rebase learning)
+=======
+>>>>>>> e307031 (fixed)
+>>>>>>> bugfix
