@@ -2,6 +2,7 @@ created a new file in new branch jkl
 modified it for branch and checking the graph
 
 i am gonna learn rebace with this
+<<<<<<< HEAD
 
 for learning rebase command editing this file also extra info
      when using command git reset --hard <hash>
@@ -13,3 +14,5 @@ i have doubts why i repeated a line for learning rebase but ig practice
 i am gonna learn rebace with this
 =======
 >>>>>>> b53c438 (added for rebase learning)
+=======
+>>>>>>> e307031 (fixed)
