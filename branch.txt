@@ -2,3 +2,7 @@ created a new file in new branch jkl
 modified it for branch and checking the graph
 
 i am gonna learn rebace with this
+
+for learning rebase command editing this file also extra info
+     when using command git reset --hard <hash>
+     make sure u are absolutely sure as it will be permanent
