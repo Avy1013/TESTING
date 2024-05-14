@@ -1,6 +1,10 @@
 gonna be testing git pull ,fetch and merge command with the help of this file
 
+<<<<<<< HEAD
 
 
 
 gonna add a line here too online to see git fetch and merge
+=======
+changing this file in local first 
+>>>>>>> b2c9288 (change it locally)
