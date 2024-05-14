@@ -8,5 +8,8 @@ for learning rebase command editing this file also extra info
      make sure u are absolutely sure as it will be permanent
 
 i have doubts why i repeated a line for learning rebase but ig practice
+<<<<<<< HEAD
 
 i am gonna learn rebace with this
+=======
+>>>>>>> b53c438 (added for rebase learning)
